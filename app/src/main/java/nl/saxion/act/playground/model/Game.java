@@ -11,6 +11,10 @@ package nl.saxion.act.playground.model;
 public abstract class Game {
 	private GameBoard gameBoard;
 
+	//MARTIN WAS HERE BOIIS
+	//KJDHAFKJAJFKSDAMFSDBFNSMD
+	//HJFGJHGAEUGYUGF
+
 	/**
 	 * Called when you create a new game.
 	 * @param gameBoard
